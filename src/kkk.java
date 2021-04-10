@@ -3,5 +3,6 @@ public class kkk {
 
         String string;
         Integer integer;
+        Integer gi;
     }
 }
