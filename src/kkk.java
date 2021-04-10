@@ -5,5 +5,6 @@ public class kkk {
         Integer integer;
         Integer gi;
         String name;
+        String nameandage;
     }
 }
