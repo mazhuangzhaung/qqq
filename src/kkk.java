@@ -5,5 +5,6 @@ public class kkk {
         Integer gi;
         String name;
         String age;
+        String like;
     }
 }
