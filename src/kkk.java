@@ -1,4 +1,7 @@
 public class kkk {
+
+    private String mYdev;
+
     public static void main(String[] args) {
         String string;
         Integer integer;
@@ -7,5 +10,7 @@ public class kkk {
         String age;
         String ONE;
         String like;
+        String love;
+
     }
 }
