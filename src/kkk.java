@@ -1,6 +1,7 @@
 public class kkk {
 
     private String mYdev;
+    private String master;
 
     public static void main(String[] args) {
         String string;
