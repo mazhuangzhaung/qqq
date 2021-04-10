@@ -6,5 +6,6 @@ public class kkk {
         String name;
         String age;
         String ONE;
+        String like;
     }
 }
